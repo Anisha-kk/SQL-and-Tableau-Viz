@@ -3,6 +3,7 @@ An SQL and Tableau exercise made using average temperature data of Bengaluru cit
 
 This data is modified from the following dataset in Kaggle: 
 https://www.kaggle.com/datasets/vanvalkenberg/historicalweatherdataforindiancities
+
 The dataset contains the CSV file Bangalore_1990_2022_BangaloreCity.csv with the following columns:
 time: the date when measurements were taken
 tavg: Average temperature in degree Centigrade.
